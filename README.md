@@ -1,5 +1,44 @@
-# 💫 About Me:
-I'm a 21-year-old BCA In cybersecurity student at Arka Jain University. Before starting my degree, I took a year off to explore different fields and discovered a real passion for cybersecurity. My passion lies in penetration testing, ethical hacking, and web security. I actively participate in CTFs on TryHackMe (Top 3%) and Hack The Box(Hacker Rank), continuously enhancing my offensive security skills.<br><br>My goal is to gain hands-on experience in penetration testing, ethical hacking, and digital forensics to contribute to a safer digital world.
+<h1 align="center">🛡️ Imran Alam - Cybersecurity Analyst & Ethical Hacker 🔐</h1>
+<h3 align="center">"Securing the digital world, one vulnerability at a time!"</h3>
+
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZmOXZoamxnajJpMjdld25tbXJoNnBjZnIyajJ6YjZ3ZXFrYnpxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGwTq3G6a39cI/giphy.gif" width="53%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtzamprbjZzejFsdmhrOXBuY3Nydm9mMWJxMGl1b2JrOXp2MG5tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40%"/>
+</p>
+
+---
+
+## 🚀 About Me  
+🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Analyst**  
+🔹 Expert in **Web Security, Network Defense, and Red Teaming**  
+🔹 Passionate about **Threat Intelligence, SIEM, and Digital Forensics**  
+🔹 Strong skills in **OSINT, Incident Response, and Secure Coding**  
+🔹 **Cybersecurity Trainer & Speaker** 🎤  
+
+---
+
+## 🏴‍☠️ Skills & Expertise  
+
+🎯 **Offensive Security (Red Team)**  
+💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap  
+🔍 **Web & API Security:** OWASP ZAP, Nikto, Recon-ng  
+🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, TheHarvester  
+
+🛡️ **Defensive Security (Blue Team)**  
+🖥️ **SIEM & Monitoring:** Splunk, ELK Stack, Suricata  
+🚨 **Incident Response:** Wireshark, Snort, Volatility  
+🔐 **Digital Forensics:** Autopsy, FTK Imager, Sleuth Kit  
+
+🛠️ **Cryptography & Secure Development**  
+🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt  
+📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
+🌍 **Cloud Security:** AWS Security Hub, Azure Sentinel  
+
+📀 **Operating Systems & Networks**  
+🐧 **Linux:** Kali, Parrot OS, Ubuntu  
+🖥️ **Windows Security:** PowerShell, Sysinternals  
+🌐 **Network Security:** Nmap, Netcat, Aircrack-ng  
 
 
 ## 🌐 Socials:
