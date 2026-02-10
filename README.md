@@ -54,10 +54,9 @@
 </picture>
 
 
-
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sahil0921/sahil0921/output/pacman-contribution-graph.svg">
 </div>
 
 # 📊 GitHub Stats:
