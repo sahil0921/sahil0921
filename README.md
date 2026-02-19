@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building web applications using modern JavaScript frameworks and improving my backend development skills.👯 I’m looking to collaborate on<br>Open-source projects related to web development and automation tools.<br><br>🤝 I’m looking for help with<br>Scalable system design and performance optimization techniques.<br><br>🌱 I’m currently learning<br>Advanced React patterns, Node.js architecture, and cloud fundamentals.<br><br>💬 Ask me about<br>Frontend development, REST APIs, and basic DevOps workflows.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple, user-friendly solutions.
+🔭 I’m currently working on<br>Building web applications using modern JavaScript frameworks and improving my backend development skills.<br>👯 I’m looking to collaborate on<br>Open-source projects related to web development and automation tools.<br><br>🤝 I’m looking for help with<br>Scalable system design and performance optimization techniques.<br><br>🌱 I’m currently learning<br>Advanced React patterns, Node.js architecture, and cloud fundamentals.<br><br>💬 Ask me about<br>Frontend development, REST APIs, and basic DevOps workflows.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple, user-friendly solutions.
 
 
 ## 🌐 Socials:
