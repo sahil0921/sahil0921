@@ -50,6 +50,8 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%94%90+Thanks+for+visiting+my+GitHub+profile!+)](https://git.io/typing-svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sahil0921&icon=0&color=0)](https://visitcount.itsvg.in)
 
