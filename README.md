@@ -1,3 +1,9 @@
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hi+There%2C+I%27m+Sahil+%F0%9F%91%8B%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.1111111111111111%2C%22deleteSpeed%22%3A0.14285714285714285%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+
+
+
+
+
 # 💫 About Me:
 
 🔭 I’m currently working on<br>Building web applications using modern JavaScript frameworks and improving my backend development skills.<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to web development and automation tools.<br><br>🤝 I’m looking for help with<br>Scalable system design and performance optimization techniques.<br><br>🌱 I’m currently learning<br>Advanced React patterns, Node.js architecture, and cloud fundamentals.<br><br>💬 Ask me about<br>Frontend development, REST APIs, and basic DevOps workflows.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple, user-friendly solutions.
