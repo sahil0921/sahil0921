@@ -1,9 +1,35 @@
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=700&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Hi+There%2C+I%27m+Sahil+%F0%9F%91%8B%22%2C%22color%22%3A%22%2300ffaa%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.1111111111111111%2C%22deleteSpeed%22%3A0.07692307692307693%2C%22lineHeight%22%3A0.8%7D%2C%7B%22text%22%3A%22Welcome+to+my+GitHub+Profile%21%22%2C%22color%22%3A%22%2300ffaa%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.1111111111111111%2C%22deleteSpeed%22%3A0.14285714285714285%2C%22lineHeight%22%3A8%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 
-# 💫 About Me:
+## 🚀 About Me  
+🔹 **Ethical Hacker | Penetration Tester | Red Teamer**  
+🔹 Expert in **Application Security, Network Defense, and Red Teaming**  
+🔹 Passionate about **Threat Intelligence, SIEM, and Digital Forensics**  
+🔹 Strong skills in **OSINT, Incident Response, and Secure Coding**  
+🔹 **Application Security** 🎤  
 
-🔭 I’m currently working on<br>Building web applications using modern JavaScript frameworks and improving my backend development skills.<br>👯 I’m looking to collaborate on<br>Open-source projects related to web development and automation tools.<br>🤝 I’m looking for help with<br>Scalable system design and performance optimization techniques.<br>🌱 I’m currently learning<br>Advanced React patterns, Node.js architecture, and cloud fundamentals.<br>💬 Ask me about<br>Frontend development, REST APIs, and basic DevOps workflows.<br>⚡ Fun fact<br>I enjoy turning complex problems into simple, user-friendly solutions.
+## 🏴‍☠️ Skills & Expertise  
+
+🎯 **Offensive Security (Red Team)**  
+💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap  
+🔍 **Web & API Security:** OWASP ZAP, Nikto, Recon-ng  
+🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, TheHarvester  
+
+🛡️ **Defensive Security (Blue Team)**  
+🖥️ **SIEM & Monitoring:** Splunk, ELK Stack, Suricata  
+🚨 **Incident Response:** Wireshark, Snort, Volatility  
+🔐 **Digital Forensics:** Autopsy, FTK Imager, Sleuth Kit  
+
+🛠️ **Cryptography & Secure Development**  
+🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt  
+📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
+🌍 **Cloud Security:** AWS Security Hub, Azure Sentinel  
+
+📀 **Operating Systems & Networks**  
+🐧 **Linux:** Kali, Parrot OS, Ubuntu  
+🖥️ **Windows Security:** PowerShell, Sysinternals  
+🌐 **Network Security:** Nmap, Netcat, Aircrack-ng  
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techsahiltricks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kumar-singh-b9457b279) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahil19d43) 
