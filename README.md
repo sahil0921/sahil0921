@@ -1,3 +1,13 @@
+<h1 align="center">🛡️ Sahil - Penetration Tester & Red Teamer 🔐</h1>
+<h3 align="center">"Securing the digital world, one vulnerability at a time!"</h3>
+
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZmOXZoamxnajJpMjdld25tbXJoNnBjZnIyajJ6YjZ3ZXFrYnpxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGwTq3G6a39cI/giphy.gif" width="53%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtzamprbjZzejFsdmhrOXBuY3Nydm9mMWJxMGl1b2JrOXp2MG5tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40%"/>
+</p>
+
+
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=700&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Hi+There%2C+I%27m+Sahil+%F0%9F%91%8B%22%2C%22color%22%3A%22%2300ffaa%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.1111111111111111%2C%22deleteSpeed%22%3A0.07692307692307693%2C%22lineHeight%22%3A0.8%7D%2C%7B%22text%22%3A%22Welcome+to+my+GitHub+Profile%21%22%2C%22color%22%3A%22%2300ffaa%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.1111111111111111%2C%22deleteSpeed%22%3A0.14285714285714285%2C%22lineHeight%22%3A8%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 
