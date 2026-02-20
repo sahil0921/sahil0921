@@ -30,12 +30,6 @@
 📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
 🌍 **Cloud Security:** AWS Security Hub, Azure Sentinel  
 
-📀 **Operating Systems & Networks**  
-🐧 **Linux:** Kali, Parrot OS, Ubuntu  
-🖥️ **Windows Security:** PowerShell, Sysinternals  
-🌐 **Network Security:** Nmap, Netcat, Aircrack-ng  
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techsahiltricks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kumar-singh-b9457b279) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahil19d43) 
 
