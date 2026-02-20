@@ -1,4 +1,4 @@
-# ## <img src="https://media.tenor.com/cZJ6K5pX7TAAAAAi/hand-waving-hand-emoji.gif" width="40px"> About Me:
+# ## <img src="https://media.tenor.com/cZJ6K5pX7TAAAAAi/hand-waving-hand-emoji.gif](https://tenor.com/en-GB/view/hand-waving-hand-emoji-gif-14999877618442267107" width="40px"> About Me:
 🔭 I’m currently working on<br>Building web applications using modern JavaScript frameworks and improving my backend development skills.<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to web development and automation tools.<br><br>🤝 I’m looking for help with<br>Scalable system design and performance optimization techniques.<br><br>🌱 I’m currently learning<br>Advanced React patterns, Node.js architecture, and cloud fundamentals.<br><br>💬 Ask me about<br>Frontend development, REST APIs, and basic DevOps workflows.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple, user-friendly solutions.
 
 
