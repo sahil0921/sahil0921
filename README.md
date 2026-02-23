@@ -12,6 +12,7 @@
 🔹 **Ethical Hacker | Penetration Tester | Red Teamer**  
 🔹 Expert in **Application Security, Wireless Security, and Red Teaming**  
 🔹 Passionate about **Threat Intelligence, SIEM, and Digital Forensics**  
+🔹 Strong skills in **WEB,API,Mobile,Cloud**
 
 ## 🏴‍☠️ Skills & Expertise  
 
