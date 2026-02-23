@@ -9,11 +9,10 @@
 </p>
 
 ## 🚀 About Me  
-## 🚀 About Me
-- Ethical Hacker | Penetration Tester | Red Teamer  
-- Specializing in Application Security, Network Security & Red Team Operations  
-- Strong hands-on experience in Web, API, Mobile, Cloud & Network Pentesting  
-- Passionate about secure coding, threat modeling & adversary simulation  
+🔹 Ethical Hacker | Penetration Tester | Red Teamer  
+🔹 Specializing in Application Security, Network Security & Red Team Operations  
+🔹 Strong hands-on experience in Web, API, Mobile, Cloud & Network Pentesting  
+🔹 Passionate about secure coding, threat modeling & adversary simulation  
 
 ## 🏴‍☠️ Skills & Expertise  
 
