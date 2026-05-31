@@ -68,7 +68,6 @@
 ![John The Ripper](https://img.shields.io/badge/John%20The%20Ripper-black?style=for-the-badge)
 ![Hashcat](https://img.shields.io/badge/Hashcat-111111?style=for-the-badge)
 ![SQLMap](https://img.shields.io/badge/SQLMap-orange?style=for-the-badge)
-![HackerAI](https://img.shields.io/badge/HackerAI-00ff88?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -76,7 +75,6 @@
 ![CMD](https://img.shields.io/badge/CMD-black?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 # 📊 GitHub Stats:
