@@ -9,7 +9,7 @@
 </p>
 
 ## 🚀 About Me  
-🔹 Ethical Hacker | Penetration Tester | Red Teamer | Appsec 
+🔹 Ethical Hacker | Penetration Tester | Red Teamer | Appsec     
 🔹 Specializing in Application Security, Network Security & Red Team Operations  
 🔹 Strong hands-on experience in Web, API, Mobile, Cloud , AI & Network Pentesting  
 🔹 Passionate about secure coding, threat modeling & adversary simulation  
