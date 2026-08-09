@@ -11,25 +11,8 @@
 ## 🚀 About Me  
 🔹 Ethical Hacker | Penetration Tester | Red Teamer  
 🔹 Specializing in Application Security, Network Security & Red Team Operations  
-🔹 Strong hands-on experience in Web, API, Mobile, Cloud & Network Pentesting  
+🔹 Strong hands-on experience in Web, API, Mobile, Cloud , AI & Network Pentesting  
 🔹 Passionate about secure coding, threat modeling & adversary simulation  
-
-## 🏴‍☠️ Skills & Expertise  
-
-🎯 **Offensive Security (Red Team)**  
-💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap  
-🔍 **Web & API Security:** OWASP ZAP, Nikto, Recon-ng  
-🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, TheHarvester  
-
-🛡️ **Defensive Security (Blue Team)**  
-🖥️ **SIEM & Monitoring:** Splunk, ELK Stack, Suricata  
-🚨 **Incident Response:** Wireshark, Snort, Volatility  
-🔐 **Digital Forensics:** Autopsy, FTK Imager, Sleuth Kit  
-
-🛠️ **Cryptography & Secure Development**  
-🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt  
-📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
-🌍 **Cloud Security:** AWS Security Hub, Azure Sentinel  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techsahiltricks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kumar-singh-b9457b279) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahil19d43) 
